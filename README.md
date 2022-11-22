@@ -1,3 +1,3 @@
 # Graphing-Calculator-Programs
 
-Programs for graphing calculators. Use TI Connect CE to download to calculators.
+Programs to visualize Reimann sums for graphing calculators. Use TI Connect CE to download to calculators.
